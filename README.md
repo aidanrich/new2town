@@ -14,7 +14,7 @@
 
 ## Usage
 - If you clone this repo you will need to run 'npm i' to install the relevant npm packages.
-- There is a live build at https://polar-garden-81010.herokuapp.com/login
+- There is a live build at https://protected-anchorage-26140.herokuapp.com/
 
 ## Credits
 - principle dev team includes Joey Fisher, Molly Singmaster, Nazik Askarbekkyzy and Aidan Rich.
